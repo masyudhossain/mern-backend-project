@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "Masyud Hossain",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
